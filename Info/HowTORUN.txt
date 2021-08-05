@@ -1,0 +1,4 @@
+To run C/C++ you need: g++
+To run .cs you need: IDK
+TO run .js you need: a browser or node
+To run Python you need: Python
