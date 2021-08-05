@@ -1,12 +1,10 @@
-#include <iostream>
-
+#include "Password.h"
 
 
 int main(){
 
+PasswordChecker();
 
-
-std::cout<<"This is a c++ file"<<std::endl;
 
     return 0; 
 }
