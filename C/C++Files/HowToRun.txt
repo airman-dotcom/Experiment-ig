@@ -1,0 +1,6 @@
+In order to run c++ on your operating system, you need g++
+a c++ compiler
+
+
+when you use the g++ compiler it creates this excutable file 
+which you can then run on you terminal and you will be able to run the program
