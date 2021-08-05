@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Funcation
 std::string PasswordChecker(){
 std::string password;
 std::cout<<"Type in a Password: ";
